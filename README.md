@@ -23,6 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="713" alt="Screenshot 2023-06-09 at 7 42 30 PM" src="https://github.com/TrenyceCodes/Frontend-Mentor-Sunnyside-agency-landing-page/assets/52137719/9d28f00f-b376-4b47-9920-e654b74f5a91">
+<img width="713" alt="Screenshot 2023-06-09 at 7 42 44 PM" src="https://github.com/TrenyceCodes/Frontend-Mentor-Sunnyside-agency-landing-page/assets/52137719/81366d25-a0f9-488e-99e7-aea85aabd990">
+<img width="713" alt="Screenshot 2023-06-09 at 7 42 57 PM" src="https://github.com/TrenyceCodes/Frontend-Mentor-Sunnyside-agency-landing-page/assets/52137719/697354a5-5a55-4473-bed5-8f1ad3130d82">
 
 
 ## My process
